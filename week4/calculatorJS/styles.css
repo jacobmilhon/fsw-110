@@ -1,0 +1,22 @@
+#add{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border: red solid 5px;
+}
+
+#subtract{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border: grey solid 5px;
+}
+
+#multiply{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    border: blue solid 5px;
+}
